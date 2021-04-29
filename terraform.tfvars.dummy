@@ -1,0 +1,9 @@
+# Rename this file as terraform.tfvars and update the below values
+
+MainRG=""
+region=""
+webvmsize=""
+webvmname=""
+admin_user=""
+password=""
+vmcount=3
